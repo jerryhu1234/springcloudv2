@@ -1,2 +1,2 @@
 # springcloudv2
-auto-trigger
+auto-trigger 构建
